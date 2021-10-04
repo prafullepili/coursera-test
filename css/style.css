@@ -17,6 +17,8 @@ h1 {
 .inner p{
     margin-top: 40px;
     font-size: 100%;
+    line-height: 1.4;
+    letter-spacing: 1px;
 }
 .title {
     border: 3px solid #000;
